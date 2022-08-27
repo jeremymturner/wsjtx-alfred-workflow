@@ -1,5 +1,8 @@
 # wsjtx-alfred-workflow
-An Alfred workflow to launch WSJT-X with any profile you have installed
+An Alfred workflow to launch WSJT-X with any rig-name profile you have installed
+
+## Screenshot
+![Screenshot of Alfred and WSJT-X rig-name profiles](screenshot.png)
 
 ## Pre-req
 Install Alfred - https://www.alfredapp.com
